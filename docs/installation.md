@@ -1,4 +1,12 @@
----
+# Clone the boilerplate:
+git clone --depth=1 \
+  https://github.com/electron-react-boilerplate/electron-react-boilerplate \
+  your-project-name
+
+cd your-project-name
+
+# Install dependencies:
+npm install---
 id: installation
 title: Installation
 sidebar_label: Installation
